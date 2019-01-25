@@ -16,4 +16,5 @@ fields:
   name: image
   label: Image
 pages:
+- site/content/post/draft-of-a-post.md
 - site/content/post/forestry-test.md
